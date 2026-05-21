@@ -12,7 +12,8 @@ programa
 		excesso = peso_de_peixes - 50
 		
 		se (peso_de_peixes > 50) {
-			multa = excesso * 4.5
+			
+		multa = excesso * 4.5
 		}
 
 		senao {
