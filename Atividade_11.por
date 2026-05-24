@@ -53,7 +53,7 @@ programa
 		
 			escreva("\n\n", "Multa a pagar: R$ ", multa)
 
-			escreva("\n\n", "O total a ser pago é: ", peso_dos_peixes, "\n")
+			escreva("\n\n", "O total a ser pago é: R$ ", peso_dos_peixes, "\n")
 		}
 	}
 }
